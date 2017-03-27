@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ПГУ 15ВЭм1 on ПГУ 15ВЭм1</title>
+    <link>https://example.com/index.xml</link>
+    <description>Recent content in ПГУ 15ВЭм1 on ПГУ 15ВЭм1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 15вэм1</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://example.com/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/deep-learning/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://example.com/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Кулебина Екатерина Алексеевна</title>
+      <link>https://example.com/post/kulebina/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/kulebina/</guid>
+      <description>
+
+&lt;p&gt;Я, Кулебина Екатерина Алексеевна родилась 3 ноября 1994 года в городе Пенза. В 2000 году поступила в общеобразовательную школу №17. В 2011 году окончила школу и поступила в Пензенский государственный университет на факультет вычислительной техники. В 2015 году закончила Пензенский государственный университет со степенью бакалавра. В 2015 году поступила в магистратуру в ПГУ на факультет вычислительной техники. В сентябре этого же года и по сегодняшний день работаю в супермаркете Лист помощником категорийного менеджера.&lt;/p&gt;
+
+&lt;h4 id=&#34;дополнительные-сведения&#34;&gt;Дополнительные сведения:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Отец: Кулебин Алексей Борисович, родился 25 мая 1969 года в городе Пенза, имеет высшее педагогическое образование, работает тренером в спортивной школе. Проживает по адресу: город Пенза, ул. 8 Марта 29, кВ. 44.&lt;/li&gt;
+&lt;li&gt;Мать: Бубнова Наталья Александровна, родилась 3 января 1974 года в городе Пенза, имеет высшее экономическое образование, работает главным бухгалтером. Проживает по адресу: город Пенза, ул. 8 Марта 29, кВ. 44.&lt;/li&gt;
+&lt;li&gt;Сестра: Кулебина Алиса Алексеевна, родилась 25 июня 2012 года в городе Пенза. На сегодняшний день является воспитанницей детского сада № 145. Проживает по адресу: город Пенза, ул. 8 Марта 29, кВ. 44.&lt;/li&gt;
+&lt;li&gt;Сестра: Кулебина Ева Алексеевна, родилась 15 апреля 2016 года в городе Пенза. Проживает по адресу: город Пенза, ул. 8 Марта 29, кВ. 44.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Литвинова Анна Романовна</title>
+      <link>https://example.com/post/litvinova/</link>
+      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/litvinova/</guid>
+      <description>
+
+&lt;p&gt;Литвинова Анна Романовна, 1994 года рождения, в 2015 году окончила бакалавриат Пензенского государственного университета по специальности «Прикладная информатика в экономике» с красным дипломом. В 2015 году поступила в магистратуру Пензенского государственного университета на специальность «Прикладная информатика в дизайне». В процессе обучения студенческие обязанности выполняет добросовестно. Учебные занятия посещает регулярно, задания сдает в установленные сроки, выступает на различных конференциях, публикуя статьи в научных сборниках. Учится на «хорошо» и «отлично». Первый курс магистратуры окончила исключительно с оценками «отлично».&lt;/p&gt;
+
+&lt;p&gt;В сентябре 2011 года вступила в профсоюзную организацию Пензенского государственного университета. Активно участвует в творческой жизни института. В 2015 на ежегодном смотре конкурсе «Студенческая весна» играла одну из основных актерских ролей в театральной постановке «Если завтра…», посвященной женщинам войны. По итогам конкурса, постановка набрала максимальное количество баллов и победила в номинации «Лучший номер, посвященный 70-летию победы в Великой отечественной войне». На студенческой весне 2016 играла одну из основных ролей в комедийном СТЭМе «Колодец», получившим максимальные оценки жюри.&lt;/p&gt;
+
+&lt;h2 id=&#34;блиц-опрос&#34;&gt;Блиц-опрос&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Занятие в свободное время&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Занятие спортом.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Любимая дисциплина в магистратуре&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Web-дизайн&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Самое главное качество хорошего преподавателя&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;заинтересовать студента&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Осознанно ли вы хотели поступить именно на этот факультет?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Да&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;тема-магистерской-диссертации&#34;&gt;Тема магистерской диссертации&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Создание виртуальных туров на основе сферических 3D-панорамм.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Стреляная Ольга Павловна</title>
+      <link>https://example.com/post/strelyanaya/</link>
+      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/strelyanaya/</guid>
+      <description>
+
+&lt;p&gt;Стреляная Ольга Павловна, 1994 года рождения, в 2015 году окончила бакавлариат Пензенского государственного университета по специальности «Прикладная информатика в экономике» с красным дипломом. В 2015 году поступила в магистратуру Пензенского государственного университета на специальность «Прикладная информатика в дизайне». С сентября 2014 года по октябрь 2016 года занимала должность руководителя танцевального коллектива «Аквамарин», основанного на базе Пензенского государственного университета. В процессе обучения студенческие обязанности выполняет добросовестно. Учебные занятия посещает регулярно, задания сдает в установленные сроки. Учится на «хорошо» и «отлично». Первый курс магистратуры окончила исключительно с оценками «отлично».&lt;/p&gt;
+
+&lt;p&gt;В сентябре 2011 года вступила в профсоюзную организацию Пензенского государственного университета. Начиная с ноября 2011 года, участвовала в каждом ежегодном смотре – конкурсе «Студенческие вечера», помогала с организацией мероприятия «Первокурсник», участвовала в мероприятиях «Мисс ПГУ», «А ну-ка Парни!», «ФВТэмми» и т.д.&lt;/p&gt;
+
+&lt;p&gt;В 2015 году на мероприятии «Мисс ПГУ» выступала с танцем в составе коллектива «Аквамарин». На Студенческой весне 2016 участвовала в народном танце «Кадриль» в качестве одной из ведущих танцовщиц. С данным танцем выступала в составе коллектива «Аквамарин» на ежегодной церемонии вручения наград Факультета вычислительной техники «ФВТэмми» 2016 года.&lt;/p&gt;
+
+&lt;p&gt;С началом обучения в магистратуре активно участвовала в конференциях на базе Пензенского Государственного Университета. По результатам I Международной научно - практической конференции «Модели, системы, сети в технике» была награждена грамотой за статью «Развитие интегрального представления многопараметрических объектов», написанной в соавторстве с дтн, профессором Косниковым Ю.Н. Данная статья была опубликована в журнале из перечня ВАК «Модели, системы, сети в экономике, технике, природе и обществе». Так же принимала участие в III Ежегодной межвузовской студенческой научно – практической конференции «Информационные технологии в науке и образовании. Проблемы и перспективы», по результатам которой в одноименном сборнике научных статей опубликована статья «Интегральная индикация в виде лица Чернова».&lt;/p&gt;
+
+&lt;h2 id=&#34;публикации&#34;&gt;Публикации&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Информационные технологии в науке и образовании. Проблемы и перспективы: сборник научных статей III Ежегодная межвузовская студенческая научно – практическая конференция / под ред. Л.Р. Фионовой, А.В. Дурина. – Пенза: Изд-во ПГУ, 2016. – 165 с. Стр.141 «Интегральная индикация в виде лица Чернова».&lt;/li&gt;
+&lt;li&gt;Современные технологии в мировом научном пространстве: сборник статей Международной научно – практической конференции / в 3 ч. Ч.1 – Уфа: Аэтерна, 2016 – 162 с. Стр.26 «Назначение, разновидности и возможности спрайтовой технологии».&lt;/li&gt;
+&lt;li&gt;Современные технологии в мировом научном пространстве: сборник статей Международной научно – практической конференции / в 3 ч. Ч.1 – Уфа: Аэтерна, 2016 – 162 с. Стр.87 «Интегральные интерфейсы. Лица Чернова».&lt;/li&gt;
+&lt;li&gt;Модели, системы, сети в экономике, технике, природе и обществе: научно – информационный журнал / №1 (17) – 2016.  [В публикации] «Развитие интегрального представления многопараметрических объектов».&lt;/li&gt;
+&lt;li&gt;Актуальные проблемы науки и образования, 2016. [В публикации] «Применение трехмерных моделей для интегральной индикации состояния многопараметрических объектов».
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;блиц-опрос&#34;&gt;Блиц-опрос&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Занятие в свободное время&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Занятие спортом.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Любимая дисциплина в магистратуре&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Web-дизайн&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Самое главное качество хорошего преподавателя&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Способность донести материал для студентов разного уровня подготовки&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Осознанно ли вы хотели поступить именно на этот факультет?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Да&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;тема-магистерской-диссертации&#34;&gt;Тема магистерской диссертации:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Интегральное представление многопараметрических объектов в виде 3D модели лица Чернова.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Стуров Алексей Леонидович</title>
+      <link>https://example.com/post/sturov/</link>
+      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/sturov/</guid>
+      <description>
+
+&lt;p&gt;Стуров Алексей Леонидович. 1990 года рождения. Закончил школу в Воронежской обласли, город Борисоглебск. Затем поступил в РГУИТП, город Пенза в 2007 году.&lt;/p&gt;
+
+&lt;p&gt;Неоднократный участник и призер Всероссийских и международных конференций по техническому творчеству среди студентов и аспирантов.&lt;/p&gt;
+
+&lt;p&gt;С 2010 года профессионально занимаюсь разработкой мобильных приложений для операционной системы Android. С 2014 года запускию собственные проекты.&lt;/p&gt;
+
+&lt;h2 id=&#34;блиц-опрос&#34;&gt;Блиц-опрос&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Занятие в свободное время&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Разработка ИТ проектов, чтение литературы.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Любимая дисциплина в магистратуре&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Отсутствует&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Самое главное качество хорошего преподавателя&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Увидеть потенциал студента&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Осознанно ли вы хотели поступить именно на этот факультет?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Да&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;тема-магистерской-диссертации&#34;&gt;Тема магистерской диссертации&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Формирование инфраструктуры сервиса продажи цифрового контента.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>https://example.com/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Звягина Наталия Сергеевна</title>
+      <link>https://example.com/post/zvyagina/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/zvyagina/</guid>
+      <description>
+
+&lt;p&gt;Звягина Наталия Сергеевна, 1993 года рождения, в 2015 году окончила бакалавриат Пензенского государственного университета по специальности «Прикладная информатика в экономике» с красным дипломом. В 2015 году поступила в магистратуру Пензенского государственного университета на специальность «Прикладная информатика в дизайне». В 2015 году с красным дипломом прошла профессиональную переподготовку в Центре дополнительного педагогического образования Пензенского государственного университета и получила квалификацию «Переводчик в сфере профессиональной коммуникации». В настоящее время успешно переведена на второй курс магистратуры.&lt;/p&gt;
+
+&lt;p&gt;В сентябре 2011 года вступила в профсоюзную организацию Пензенского государственного университета. С апреля 2013 года по апрель 2015, в качестве секретаря профбюро факультета вычислительной техники помогает в организации мероприятий на факультете и университете, таких как «Первокурсник», «Мисс ПГУ», «Студенческие вечера», «ФВТэмми», «Театральный загс» и др.&lt;/p&gt;
+
+&lt;p&gt;В 2012 году получила специальность в государственном автономном образовательном учреждении дополнительного профессионального образования «Пензенский институт развития образования» по программе «Организатор детского досуга (вожатый)». В 2014 году награждена почетной грамотой за работу в качестве вожатого в ДОЛ «Ясный» Саратовской области. С первого курса бакалавриата проявила интерес к научной деятельности факультета. В 2013 году прошла краткосрочное обучение на факультете повышения квалификации и дополнительного образования Пензенского государственного университета по программе «Информационные технологии в экономике на базе системы «1С: Предприятие 8», успешно сдала сертификационный экзамен. В 2014 году принимала участие в международной олимпиаде в сфере информационных технологий «IT-планета 2013/14» (11 место в регионе, 64 место по России). В&lt;/p&gt;
+
+&lt;p&gt;2014 году принимала участие в Заключительном туре Всероссийской студенческой олимпиады по направлению «Прикладная информатика» ПИ-2014, удостоена номинации «За академичность». Неоднократно принимала участие в научных конференциях и писала статьи. В 2015 году лучшим в секции «Киберлингвистика» признан доклад на XXV научно-практической конференции «Актуальные проблемы науки и образования» г. Пенза. Приняла участие во II и III Ежегодной межвузовской студенческой научно-практической конференциях «Информационные технологии в науке и образовании. Проблемы и перспективы» (МСНПК – 2015-2016). В 2016 году приняла участие в Международной научно-практической конференции «Современные технологии в мировом научном пространстве» г. Томск, выпущено две статьи. Опубликована статья в журнале «Евразийский Научный журнал №13» г. Курск. В 2016 году написала книгу «Автоматизированная система учета договорных обязательств АН», которую затем выпустил международный издательский дом Lambert Academic Publishing (ISBN: 978-3-65985-414-9 – 164 стр.).&lt;/p&gt;
+
+&lt;p&gt;С 2013 по 2015 учебный год поощрялась повышенной стипендией за общественную деятельность и хорошую учёбу.&lt;/p&gt;
+
+&lt;h2 id=&#34;публикации&#34;&gt;Публикации:&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Информационные технологии в науке и образовании. Проблемы и перспективы: сборник научных статей II Ежегодной межвузовской студенческой научно-практической конференции. (г. Пенза, 11 марта 2015 г.) / под ред. Л. Р. Фионовой, А. В. Дурина. – Пенза : Изд-во ПГУ, 2015. – 370 с. «Автоматизация деятельности риелторских агентств»&lt;/li&gt;
+&lt;li&gt;Евразийский научный журнал: ежемесячное научное издание. (январь 2016)/ редакция Евразийского научного журнала. - Санкт-Петербург 2016. «Динамические 3d изображения на основе спрайтов»&lt;/li&gt;
+&lt;li&gt;Современные технологии в мировом научном пространстве: сборник статей Международной научно-практической конференции. (г. Томск, 25 января 2016 г.)/ в 3 ч. Ч1 – Уфа: АЭТЕРНА, 2016. -162 с. «Вихревые горелки»&lt;/li&gt;
+&lt;li&gt;Современные технологии в мировом научном пространстве: сборник статей Международной научно-практической конференции. (г. Томск, 25 января 2016 г.)/ в 3 ч. Ч1 – Уфа: АЭТЕРНА, 2016. -162 с. «Назначение, разновидности и возможности спрайтовой технологии»&lt;/li&gt;
+&lt;li&gt;Автоматизированная система учета договорных обязательств АН по передаче жилой недвижимости во временное пользование: авторская книга. (Германия, 25 февраля 2016г.)/ – Саарбрюккен: LAP Lambert Academic Publishing, 2016. – 164 с. ISBN: 978-3-65985-414-9&lt;/li&gt;
+&lt;li&gt;Информационные технологии в науке и образовании. Проблемы и перспективы: сборник научных статей III Ежегодной межвузовской студенческой научно-практической конференции. (г. Пенза, 11 марта 2016 г.) / под ред. Л. Р. Фионовой, А. В. Дурина. – Пенза : Изд-во ПГУ, 2015. – 294 с. «Назначение, разновидности и возможности спрайтов. 3D-объекты на основе спрайтов»
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;блиц-опрос&#34;&gt;Блиц-опрос&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Занятие в свободное время&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Играть в компьютерные игры или читать книги.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Любимая дисциплина в магистратуре&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Художественные основы интерфейсов информационных систем&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Самое главное качество хорошего преподавателя&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Умение заинтересовать студентов&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Осознанно ли вы хотели поступить именно на этот факультет?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Да&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;тема-магистерской-диссертации&#34;&gt;Тема магистерской диссертации&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Назначение, разновидности и возможности спрайтов. Исследование возможностей спрайтовой технологии. Динамические 3D изображения на основе спрайтов.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>https://example.com/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
